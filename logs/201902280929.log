@@ -1,0 +1,33 @@
+2019-02-28 09:29:06,027-BrowserEngline-INFO-You had select Chrome browser
+2019-02-28 09:29:06,027-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php
+2019-02-28 09:29:09,366-BrowserEngline-INFO-Staring chrome browser.
+2019-02-28 09:29:10,167-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php
+2019-02-28 09:29:11,329-BrowserEngline-INFO-Maximize the current window.
+2019-02-28 09:29:11,331-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-28 09:29:11,475-BasePage-INFO-输入内容
+2019-02-28 09:29:11,609-BasePage-INFO-输入内容
+2019-02-28 09:29:13,992-BrowserEngline-INFO-日志记录退出并关闭浏览器
+2019-02-28 09:29:33,094-BrowserEngline-INFO-You had select Chrome browser
+2019-02-28 09:29:33,094-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php
+2019-02-28 09:29:35,874-BrowserEngline-INFO-Staring chrome browser.
+2019-02-28 09:29:37,495-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php
+2019-02-28 09:29:38,660-BrowserEngline-INFO-Maximize the current window.
+2019-02-28 09:29:38,662-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-28 09:29:38,859-BasePage-INFO-输入内容
+2019-02-28 09:29:38,959-BasePage-INFO-输入内容
+2019-02-28 09:29:50,578-BasePage-ERROR-name页面未找到moderate[]元素
+2019-02-28 09:29:56,749-BasePage-ERROR-css selector页面未找到#mdly > p:nth-child(6) > strong:nth-child(1) > a元素
+2019-02-28 09:29:58,019-BrowserEngline-INFO-You had select Chrome browser
+2019-02-28 09:29:58,019-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php
+2019-02-28 09:30:01,471-BrowserEngline-INFO-Staring chrome browser.
+2019-02-28 09:30:02,178-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php
+2019-02-28 09:30:02,827-BasePage-ERROR-css selector页面未找到#modsubmit > span元素
+2019-02-28 09:30:03,354-BrowserEngline-INFO-Maximize the current window.
+2019-02-28 09:30:03,359-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-28 09:30:03,570-BasePage-INFO-输入内容
+2019-02-28 09:30:03,708-BasePage-INFO-输入内容
+2019-02-28 09:30:07,768-BasePage-INFO-输入内容
+2019-02-28 09:30:08,070-BasePage-INFO-输入内容
+2019-02-28 09:30:08,916-BasePage-ERROR-xpath页面未找到//*[@id="um"]/p[1]/a[5]元素
+2019-02-28 09:30:14,135-BrowserEngline-INFO-日志记录退出并关闭浏览器
+2019-02-28 09:30:24,897-BasePage-INFO-输入内容

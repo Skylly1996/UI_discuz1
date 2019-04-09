@@ -1,0 +1,10 @@
+2019-02-28 11:27:30,570-BrowserEngline-INFO-You had select Chrome browser
+2019-02-28 11:27:30,570-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=2
+2019-02-28 11:27:33,572-BrowserEngline-INFO-Staring chrome browser.
+2019-02-28 11:27:34,867-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=2
+2019-02-28 11:27:35,995-BrowserEngline-INFO-Maximize the current window.
+2019-02-28 11:27:36,001-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-28 11:27:36,275-BasePage-INFO-输入内容
+2019-02-28 11:27:36,426-BasePage-INFO-输入内容
+2019-02-28 11:27:50,110-BasePage-ERROR-class name页面未找到.addtr元素
+2019-02-28 11:27:52,547-BrowserEngline-INFO-日志记录退出并关闭浏览器

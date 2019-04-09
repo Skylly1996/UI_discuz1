@@ -1,0 +1,27 @@
+2019-02-27 20:42:50,965-BrowserEngline-INFO-You had select Chrome browser
+2019-02-27 20:42:50,965-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php
+2019-02-27 20:42:54,402-BrowserEngline-INFO-Staring chrome browser.
+2019-02-27 20:42:55,352-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php
+2019-02-27 20:42:56,514-BrowserEngline-INFO-Maximize the current window.
+2019-02-27 20:42:56,520-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-27 20:42:56,773-BasePage-INFO-输入内容
+2019-02-27 20:42:56,905-BasePage-INFO-输入内容
+2019-02-27 20:43:09,032-BasePage-ERROR-id页面未找到moderate[]元素
+2019-02-27 20:43:20,128-BasePage-ERROR-css selector页面未找到#mdly > p:nth-child(6) > strong:nth-child(1) > a元素
+2019-02-27 20:43:31,203-BasePage-ERROR-css selector页面未找到#um > p:nth-child(2) > a:nth-child(15)元素
+2019-02-27 20:43:42,284-BasePage-ERROR-css selector页面未找到#loginform > p:nth-child(6) > input元素
+2019-02-27 20:43:42,284-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-27 20:43:53,345-BasePage-ERROR-name页面未找到submit元素
+2019-02-27 20:44:01,111-BasePage-ERROR-css selector页面未找到#header_forum元素
+2019-02-27 20:44:01,119-BasePage-ERROR-class name页面未找到addtr元素
+2019-02-27 20:44:01,125-BasePage-ERROR-name页面未找到newforum[1][],元素
+2019-02-27 20:44:01,128-BasePage-ERROR-name页面未找到newforum[1][],元素
+2019-02-27 20:44:01,128-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-27 20:44:01,133-BasePage-ERROR-name页面未找到submit_editsubmit元素
+2019-02-27 20:44:01,139-BasePage-ERROR-css selector页面未找到#frameuinfo > p:nth-child(1) > a元素
+2019-02-27 20:44:01,144-BasePage-ERROR-xpath页面未找到//*[@id="um"]/p[1]/a[5]元素
+2019-02-27 20:44:01,149-BasePage-ERROR-id页面未找到ls_username元素
+2019-02-27 20:44:01,150-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-27 20:44:01,153-BasePage-ERROR-id页面未找到ls_password元素
+2019-02-27 20:44:01,154-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-27 20:44:01,158-BasePage-ERROR-css selector页面未找到.pn em元素

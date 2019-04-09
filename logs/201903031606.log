@@ -1,0 +1,12 @@
+2019-03-03 16:06:06,097-BrowserEngline-INFO-You had select Chrome browser
+2019-03-03 16:06:06,097-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 16:06:10,796-BrowserEngline-INFO-Staring chrome browser.
+2019-03-03 16:06:12,292-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 16:06:13,827-BrowserEngline-INFO-Maximize the current window.
+2019-03-03 16:06:13,831-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-03-03 16:06:14,329-BasePage-INFO-输入内容
+2019-03-03 16:06:14,649-BasePage-INFO-输入内容
+2019-03-03 16:06:30,163-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-03-03 16:06:36,286-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-03-03 16:07:03,545-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-03-03 16:07:23,072-BrowserEngline-INFO-日志记录退出并关闭浏览器

@@ -1,0 +1,19 @@
+2019-03-03 11:37:15,608-BrowserEngline-INFO-You had select Chrome browser
+2019-03-03 11:37:15,608-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 11:37:18,674-BrowserEngline-INFO-Staring chrome browser.
+2019-03-03 11:37:30,138-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 11:37:31,319-BrowserEngline-INFO-Maximize the current window.
+2019-03-03 11:37:31,321-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-03-03 11:37:31,567-BasePage-INFO-输入内容
+2019-03-03 11:37:31,723-BasePage-INFO-输入内容
+2019-03-03 11:37:46,128-BasePage-ERROR-xpath页面未找到//*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a元素
+2019-03-03 11:37:46,362-BasePage-INFO-输入内容
+2019-03-03 11:37:46,449-BasePage-ERROR-Failed to type in input box with Message: unknown error: cannot focus element
+  (Session info: chrome=72.0.3626.64)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-03-03 11:38:07,588-BasePage-ERROR-id页面未找到fastpostmessage元素
+2019-03-03 11:38:07,588-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-03-03 11:38:13,657-BasePage-ERROR-xpath页面未找到//*[@id="fastpostsubmit"]元素
+2019-03-03 11:38:19,778-BasePage-ERROR-link text页面未找到退出元素
+2019-03-03 11:38:27,037-BrowserEngline-INFO-日志记录退出并关闭浏览器

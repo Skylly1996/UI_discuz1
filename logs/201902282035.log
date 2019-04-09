@@ -1,0 +1,20 @@
+2019-02-28 20:35:43,515-BrowserEngline-INFO-You had select Chrome browser
+2019-02-28 20:35:43,515-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-02-28 20:35:46,649-BrowserEngline-INFO-Staring chrome browser.
+2019-02-28 20:35:58,382-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-02-28 20:35:59,635-BrowserEngline-INFO-Maximize the current window.
+2019-02-28 20:35:59,643-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-28 20:36:00,337-BasePage-INFO-输入内容
+2019-02-28 20:36:00,947-BasePage-INFO-输入内容
+2019-02-28 20:36:07,739-BasePage-ERROR-css selector页面未找到#category_1>table>tbody>tr:nth-child(1)>td:nth-child(2)>h2>a元素
+2019-02-28 20:36:07,748-BasePage-ERROR-css selector页面未找到#newspecial > img元素
+2019-02-28 20:36:07,755-BasePage-ERROR-css selector页面未找到#editorbox > ul > li:nth-child(2) > a元素
+2019-02-28 20:36:07,761-BasePage-ERROR-css selector页面未找到#subject元素
+2019-02-28 20:36:07,762-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-28 20:36:07,779-BasePage-ERROR-name页面未找到polloption[]元素
+2019-02-28 20:36:07,779-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-28 20:36:07,785-BasePage-ERROR-name页面未找到polloption[]元素
+2019-02-28 20:36:07,785-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-28 20:36:07,790-BasePage-ERROR-css selector页面未找到.pn span元素
+2019-02-28 20:36:07,799-BasePage-ERROR-xpath页面未找到#um > p:nth-child(2) > a:nth-child(13)元素
+2019-02-28 20:36:15,024-BrowserEngline-INFO-日志记录退出并关闭浏览器

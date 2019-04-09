@@ -1,0 +1,25 @@
+2019-03-04 19:27:04,009-BrowserEngline-INFO-You had select Chrome browser
+2019-03-04 19:27:04,010-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-04 19:27:07,050-BrowserEngline-INFO-Staring chrome browser.
+2019-03-04 19:27:08,233-BrowserEngline-INFO-You had select Chrome browser
+2019-03-04 19:27:08,233-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-04 19:27:56,424-BrowserEngline-INFO-You had select Chrome browser
+2019-03-04 19:27:56,424-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-04 19:27:59,018-BrowserEngline-INFO-Staring chrome browser.
+2019-03-04 19:28:00,052-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-04 19:28:01,189-BrowserEngline-INFO-Maximize the current window.
+2019-03-04 19:28:01,192-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-03-04 19:28:01,470-BasePage-INFO-输入内容
+2019-03-04 19:28:01,640-BasePage-INFO-输入内容
+2019-03-04 19:28:16,817-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-03-04 19:28:22,843-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-03-04 19:28:49,873-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-03-04 19:29:09,075-BrowserEngline-INFO-日志记录退出并关闭浏览器
+2019-03-04 19:29:09,079-BrowserEngline-INFO-You had select Chrome browser
+2019-03-04 19:29:09,079-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-04 19:29:11,847-BrowserEngline-INFO-Staring chrome browser.
+2019-03-04 19:29:18,132-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-04 19:29:19,271-BrowserEngline-INFO-Maximize the current window.
+2019-03-04 19:29:19,276-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-03-04 19:29:19,583-BasePage-INFO-输入内容
+2019-03-04 19:29:19,785-BasePage-INFO-输入内容

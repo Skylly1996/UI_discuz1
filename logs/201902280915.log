@@ -1,0 +1,21 @@
+2019-02-28 09:15:13,012-BrowserEngline-INFO-You had select Chrome browser
+2019-02-28 09:15:13,012-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php
+2019-02-28 09:15:16,022-BrowserEngline-INFO-Staring chrome browser.
+2019-02-28 09:15:16,645-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php
+2019-02-28 09:15:17,807-BrowserEngline-INFO-Maximize the current window.
+2019-02-28 09:15:17,812-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-28 09:15:18,073-BasePage-INFO-输入内容
+2019-02-28 09:15:18,223-BasePage-INFO-输入内容
+2019-02-28 09:15:28,944-BasePage-ERROR-css selector页面未找到moderate[]元素
+2019-02-28 09:15:35,098-BrowserEngline-INFO-You had select Chrome browser
+2019-02-28 09:15:35,098-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php
+2019-02-28 09:15:38,457-BrowserEngline-INFO-Staring chrome browser.
+2019-02-28 09:15:39,080-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php
+2019-02-28 09:15:40,225-BrowserEngline-INFO-Maximize the current window.
+2019-02-28 09:15:40,227-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-28 09:15:40,516-BasePage-INFO-输入内容
+2019-02-28 09:15:40,662-BasePage-INFO-输入内容
+2019-02-28 09:15:51,869-BasePage-ERROR-css selector页面未找到moderate[]元素
+2019-02-28 09:16:01,503-BasePage-ERROR-css selector页面未找到#mdly > p:nth-child(6) > strong:nth-child(1) > a元素
+2019-02-28 09:16:01,503-BasePage-ERROR-css selector页面未找到#modsubmit > span元素
+2019-02-28 09:16:01,503-BasePage-ERROR-xpath页面未找到//*[@id="um"]/p[1]/a[5]元素

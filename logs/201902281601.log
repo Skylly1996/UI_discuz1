@@ -1,0 +1,28 @@
+2019-02-28 16:01:34,649-BrowserEngline-INFO-You had select Chrome browser
+2019-02-28 16:01:34,649-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php
+2019-02-28 16:01:37,646-BrowserEngline-INFO-Staring chrome browser.
+2019-02-28 16:01:38,424-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php
+2019-02-28 16:01:39,560-BrowserEngline-INFO-Maximize the current window.
+2019-02-28 16:01:39,562-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-28 16:01:39,783-BasePage-INFO-输入内容
+2019-02-28 16:01:39,909-BasePage-INFO-输入内容
+2019-02-28 16:01:52,776-BasePage-ERROR-xpath页面未找到//*[@id="loginform"]/p[4]/input元素
+2019-02-28 16:01:52,776-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-28 16:01:52,792-BasePage-ERROR-name页面未找到submit元素
+2019-02-28 16:01:52,792-BasePage-ERROR-id页面未找到header_forum元素
+2019-02-28 16:01:55,979-BrowserEngline-INFO-You had select Chrome browser
+2019-02-28 16:01:55,979-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php
+2019-02-28 16:01:56,822-BrowserEngline-INFO-日志记录退出并关闭浏览器
+2019-02-28 16:01:59,901-BrowserEngline-INFO-Staring chrome browser.
+2019-02-28 16:02:00,584-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php
+2019-02-28 16:02:01,724-BrowserEngline-INFO-Maximize the current window.
+2019-02-28 16:02:01,727-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-28 16:02:01,908-BasePage-INFO-输入内容
+2019-02-28 16:02:02,092-BasePage-INFO-输入内容
+2019-02-28 16:02:12,202-BasePage-INFO-输入内容
+2019-02-28 16:02:12,675-BasePage-INFO-输入内容
+2019-02-28 16:02:35,736-BasePage-ERROR-id页面未找到fastpostmessage元素
+2019-02-28 16:02:35,736-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-28 16:02:41,807-BasePage-ERROR-xpath页面未找到//*[@id="fastpostsubmit"]元素
+2019-02-28 16:02:47,946-BasePage-ERROR-css selector页面未找到#um > p:nth-child(2) > a:nth-child(12)元素
+2019-02-28 16:02:55,221-BrowserEngline-INFO-日志记录退出并关闭浏览器

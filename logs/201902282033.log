@@ -1,0 +1,19 @@
+2019-02-28 20:33:36,585-BrowserEngline-INFO-You had select Chrome browser
+2019-02-28 20:33:36,585-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php
+2019-02-28 20:33:39,582-BrowserEngline-INFO-Staring chrome browser.
+2019-02-28 20:33:50,404-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php
+2019-02-28 20:33:51,566-BrowserEngline-INFO-Maximize the current window.
+2019-02-28 20:33:51,570-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-28 20:33:51,835-BasePage-INFO-输入内容
+2019-02-28 20:33:51,988-BasePage-INFO-输入内容
+2019-02-28 20:34:13,791-BasePage-ERROR-css selector页面未找到#newspecial > img元素
+2019-02-28 20:34:24,891-BasePage-ERROR-css selector页面未找到#editorbox > ul > li:nth-child(2) > a元素
+2019-02-28 20:34:36,049-BasePage-ERROR-css selector页面未找到#subject元素
+2019-02-28 20:34:36,052-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-28 20:34:47,161-BasePage-ERROR-name页面未找到polloption[]元素
+2019-02-28 20:34:47,161-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-28 20:35:00,076-BasePage-ERROR-name页面未找到polloption[]元素
+2019-02-28 20:35:00,077-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-28 20:35:00,083-BasePage-ERROR-css selector页面未找到.pn span元素
+2019-02-28 20:35:00,089-BasePage-ERROR-xpath页面未找到#um > p:nth-child(2) > a:nth-child(13)元素
+2019-02-28 20:35:07,882-BrowserEngline-INFO-日志记录退出并关闭浏览器

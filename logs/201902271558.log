@@ -1,0 +1,11 @@
+2019-02-27 15:58:32,574-BrowserEngline-INFO-You had select Chrome browser
+2019-02-27 15:58:32,574-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=viewthread&tid=1&extra=
+2019-02-27 15:58:36,111-BrowserEngline-INFO-Staring chrome browser.
+2019-02-27 15:58:37,933-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=viewthread&tid=1&extra=
+2019-02-27 15:58:39,066-BrowserEngline-INFO-Maximize the current window.
+2019-02-27 15:58:39,070-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-27 15:58:39,391-BasePage-INFO-输入内容
+2019-02-27 15:58:39,559-BasePage-INFO-输入内容
+2019-02-27 15:58:50,257-BasePage-ERROR-id页面未找到subject元素
+2019-02-27 15:58:50,257-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-27 15:58:54,853-BrowserEngline-INFO-日志记录退出并关闭浏览器

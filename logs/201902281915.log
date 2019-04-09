@@ -1,0 +1,10 @@
+2019-02-28 19:15:22,232-BrowserEngline-INFO-You had select Chrome browser
+2019-02-28 19:15:22,233-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php
+2019-02-28 19:15:25,032-BrowserEngline-INFO-Staring chrome browser.
+2019-02-28 19:15:35,505-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php
+2019-02-28 19:15:36,642-BrowserEngline-INFO-Maximize the current window.
+2019-02-28 19:15:36,645-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-28 19:15:36,833-BasePage-INFO-输入内容
+2019-02-28 19:15:37,023-BasePage-INFO-输入内容
+2019-02-28 19:15:59,490-BasePage-ERROR-css selector页面未找到#editorbox > ul > li:nth-child(2) > a元素
+2019-02-28 19:16:06,845-BrowserEngline-INFO-日志记录退出并关闭浏览器

@@ -1,0 +1,21 @@
+2019-03-22 19:47:10,282-BrowserEngline-INFO-You had select Chrome browser
+2019-03-22 19:47:10,283-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-22 19:47:13,249-BrowserEngline-INFO-Staring chrome browser.
+2019-03-22 19:47:13,952-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-22 19:47:15,093-BrowserEngline-INFO-Maximize the current window.
+2019-03-22 19:47:15,094-BrowserEngline-INFO-Set implicity wait 5 seconds. 
+2019-03-22 19:47:15,286-BasePage-INFO-输入内容
+2019-03-22 19:47:15,396-BasePage-INFO-输入内容
+2019-03-22 19:47:19,601-BrowserEngline-INFO-日志记录退出并关闭浏览器
+2019-03-22 19:47:59,770-BrowserEngline-INFO-You had select Chrome browser
+2019-03-22 19:47:59,773-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-22 19:48:02,775-BrowserEngline-INFO-Staring chrome browser.
+2019-03-22 19:48:03,646-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-22 19:48:04,768-BrowserEngline-INFO-Maximize the current window.
+2019-03-22 19:48:04,769-BrowserEngline-INFO-Set implicity wait 5 seconds. 
+2019-03-22 19:48:04,939-BasePage-INFO-输入内容
+2019-03-22 19:48:05,050-BasePage-INFO-输入内容
+2019-03-22 19:48:20,470-BasePage-INFO-输入内容
+2019-03-22 19:48:20,615-BasePage-INFO-输入内容
+2019-03-22 19:48:20,765-BasePage-INFO-输入内容
+2019-03-22 19:48:40,255-BrowserEngline-INFO-日志记录退出并关闭浏览器

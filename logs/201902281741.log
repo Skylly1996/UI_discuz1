@@ -1,0 +1,20 @@
+2019-02-28 17:41:09,125-BrowserEngline-INFO-You had select Chrome browser
+2019-02-28 17:41:09,125-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php
+2019-02-28 17:41:11,900-BrowserEngline-INFO-Staring chrome browser.
+2019-02-28 17:41:12,691-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php
+2019-02-28 17:41:13,848-BrowserEngline-INFO-Maximize the current window.
+2019-02-28 17:41:13,851-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-28 17:41:14,077-BasePage-INFO-输入内容
+2019-02-28 17:41:14,220-BasePage-INFO-输入内容
+2019-02-28 17:41:26,099-BasePage-ERROR-css selector页面未找到#newspecial > img元素
+2019-02-28 17:41:37,246-BasePage-ERROR-css selector页面未找到#editorbox > ul > li:nth-child(2) > a元素
+2019-02-28 17:41:44,700-BrowserEngline-INFO-日志记录退出并关闭浏览器
+2019-02-28 17:41:51,072-BrowserEngline-INFO-You had select Chrome browser
+2019-02-28 17:41:51,072-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php
+2019-02-28 17:41:53,807-BrowserEngline-INFO-Staring chrome browser.
+2019-02-28 17:41:54,469-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php
+2019-02-28 17:41:55,595-BrowserEngline-INFO-Maximize the current window.
+2019-02-28 17:41:55,598-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-28 17:41:55,837-BasePage-INFO-输入内容
+2019-02-28 17:41:55,963-BasePage-INFO-输入内容
+2019-02-28 17:42:06,485-BrowserEngline-INFO-日志记录退出并关闭浏览器

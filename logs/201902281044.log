@@ -1,0 +1,17 @@
+2019-02-28 10:44:14,668-BrowserEngline-INFO-You had select Chrome browser
+2019-02-28 10:44:14,668-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=2
+2019-02-28 10:44:17,518-BrowserEngline-INFO-Staring chrome browser.
+2019-02-28 10:44:18,267-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=2
+2019-02-28 10:44:19,427-BrowserEngline-INFO-Maximize the current window.
+2019-02-28 10:44:19,427-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-28 10:44:19,660-BasePage-INFO-输入内容
+2019-02-28 10:44:19,792-BasePage-INFO-输入内容
+2019-02-28 10:44:33,016-BasePage-ERROR-xpath页面未找到//*[@id="loginform"]/p[4]/input元素
+2019-02-28 10:44:33,016-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-28 10:44:44,086-BasePage-ERROR-name页面未找到submit元素
+2019-02-28 10:44:55,602-BasePage-ERROR-css selector页面未找到#cpform > table > tbody:nth-child(3) > tr > td:nth-child(2) > div > a元素
+2019-02-28 10:45:06,793-BasePage-ERROR-name页面未找到newforum[1][],元素
+2019-02-28 10:45:17,962-BasePage-ERROR-name页面未找到newforum[1][],元素
+2019-02-28 10:45:17,962-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-28 10:45:29,132-BasePage-ERROR-name页面未找到submit_editsubmit元素
+2019-02-28 10:45:34,849-BrowserEngline-INFO-日志记录退出并关闭浏览器

@@ -1,0 +1,59 @@
+2019-03-03 11:19:37,706-BrowserEngline-INFO-You had select Chrome browser
+2019-03-03 11:19:37,706-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 11:19:40,582-BrowserEngline-INFO-Staring chrome browser.
+2019-03-03 11:19:51,241-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 11:19:52,373-BrowserEngline-INFO-Maximize the current window.
+2019-03-03 11:19:52,376-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-03-03 11:19:52,668-BasePage-INFO-输入内容
+2019-03-03 11:19:52,810-BasePage-INFO-输入内容
+2019-03-03 11:20:09,803-BasePage-ERROR-xpath页面未找到//*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a元素
+2019-03-03 11:20:10,082-BasePage-INFO-输入内容
+2019-03-03 11:20:10,311-BasePage-INFO-输入内容
+2019-03-03 11:20:36,397-BasePage-INFO-输入内容
+2019-03-03 11:20:53,273-BrowserEngline-INFO-日志记录退出并关闭浏览器
+2019-03-03 11:20:53,273-BrowserEngline-INFO-You had select Chrome browser
+2019-03-03 11:20:53,273-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 11:20:56,146-BrowserEngline-INFO-Staring chrome browser.
+2019-03-03 11:21:06,655-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 11:21:07,827-BrowserEngline-INFO-Maximize the current window.
+2019-03-03 11:21:07,829-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-03-03 11:21:08,081-BasePage-INFO-输入内容
+2019-03-03 11:21:08,218-BasePage-INFO-输入内容
+2019-03-03 11:21:24,156-BasePage-ERROR-xpath页面未找到//*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a元素
+2019-03-03 11:21:38,823-BasePage-INFO-输入内容
+2019-03-03 11:21:50,300-BasePage-ERROR-link text页面未找到退出元素
+2019-03-03 11:22:04,190-BasePage-INFO-输入内容
+2019-03-03 11:22:04,318-BasePage-INFO-输入内容
+2019-03-03 11:22:21,272-BasePage-ERROR-css selector页面未找到#category_1 > table > tbody > tr:nth-child(3) > td:nth-child(2) > h2 > a元素
+2019-03-03 11:22:21,517-BasePage-INFO-输入内容
+2019-03-03 11:22:21,685-BasePage-INFO-输入内容
+2019-03-03 11:22:48,517-BasePage-INFO-输入内容
+2019-03-03 11:22:55,405-BrowserEngline-INFO-日志记录退出并关闭浏览器
+2019-03-03 11:22:55,405-BrowserEngline-INFO-You had select Chrome browser
+2019-03-03 11:22:55,405-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 11:22:58,579-BrowserEngline-INFO-Staring chrome browser.
+2019-03-03 11:23:01,439-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 11:23:11,578-BrowserEngline-INFO-Maximize the current window.
+2019-03-03 11:23:11,581-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-03-03 11:23:16,587-BasePage-ERROR-id页面未找到ls_username元素
+2019-03-03 11:23:16,588-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-03-03 11:23:16,589-BasePage-ERROR-id页面未找到ls_password元素
+2019-03-03 11:23:16,590-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-03-03 11:23:16,593-BasePage-ERROR-css selector页面未找到.pn em元素
+2019-03-03 11:23:18,594-BasePage-ERROR-css selector页面未找到td input元素
+2019-03-03 11:23:18,595-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-03-03 11:23:18,597-BasePage-ERROR-css selector页面未找到td button元素
+2019-03-03 11:23:24,885-BrowserEngline-INFO-日志记录退出并关闭浏览器
+2019-03-03 11:23:24,885-BrowserEngline-INFO-You had select Chrome browser
+2019-03-03 11:23:24,885-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 11:23:28,076-BrowserEngline-INFO-Staring chrome browser.
+2019-03-03 11:23:38,689-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 11:23:39,841-BrowserEngline-INFO-Maximize the current window.
+2019-03-03 11:23:39,844-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-03-03 11:23:40,127-BasePage-INFO-输入内容
+2019-03-03 11:23:40,300-BasePage-INFO-输入内容
+2019-03-03 11:23:57,237-BasePage-ERROR-css selector页面未找到#category_1>table>tbody>tr:nth-child(1)>td:nth-child(2)>h2>a元素
+2019-03-03 11:24:10,156-BasePage-INFO-输入内容
+2019-03-03 11:24:10,289-BasePage-INFO-输入内容
+2019-03-03 11:24:10,434-BasePage-INFO-输入内容
+2019-03-03 11:24:28,642-BrowserEngline-INFO-日志记录退出并关闭浏览器

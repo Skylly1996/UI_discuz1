@@ -1,0 +1,20 @@
+2019-03-03 10:55:23,081-BrowserEngline-INFO-You had select Chrome browser
+2019-03-03 10:55:23,081-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 10:55:26,374-BrowserEngline-INFO-Staring chrome browser.
+2019-03-03 10:55:27,309-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 10:55:28,472-BrowserEngline-INFO-Maximize the current window.
+2019-03-03 10:55:28,475-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-03-03 10:55:28,727-BasePage-INFO-输入内容
+2019-03-03 10:55:28,856-BasePage-INFO-输入内容
+2019-03-03 10:55:40,045-BasePage-ERROR-xpath页面未找到//*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a元素
+2019-03-03 10:55:53,867-BasePage-ERROR-xpath页面未找到//*[@id="loginform"]/p[4]/input元素
+2019-03-03 10:55:53,867-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-03-03 10:56:04,982-BasePage-ERROR-name页面未找到submit元素
+2019-03-03 10:56:06,257-BasePage-INFO-输入内容
+2019-03-03 10:56:17,816-BasePage-ERROR-link text页面未找到退出元素
+2019-03-03 10:56:20,845-BasePage-INFO-输入内容
+2019-03-03 10:56:20,969-BasePage-INFO-输入内容
+2019-03-03 10:56:37,189-BasePage-ERROR-css selector页面未找到#category_1 > table > tbody > tr:nth-child(3) > td:nth-child(2) > h2 > a元素
+2019-03-03 10:56:37,425-BasePage-INFO-输入内容
+2019-03-03 10:56:37,621-BasePage-INFO-输入内容
+2019-03-03 10:56:56,504-BrowserEngline-INFO-日志记录退出并关闭浏览器

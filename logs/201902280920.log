@@ -1,0 +1,9 @@
+2019-02-28 09:20:41,726-BrowserEngline-INFO-You had select Chrome browser
+2019-02-28 09:20:41,726-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php
+2019-02-28 09:20:44,550-BrowserEngline-INFO-Staring chrome browser.
+2019-02-28 09:20:45,310-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php
+2019-02-28 09:20:46,440-BrowserEngline-INFO-Maximize the current window.
+2019-02-28 09:20:46,444-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-28 09:20:46,745-BasePage-INFO-输入内容
+2019-02-28 09:20:46,907-BasePage-INFO-输入内容
+2019-02-28 09:20:55,916-BrowserEngline-INFO-日志记录退出并关闭浏览器

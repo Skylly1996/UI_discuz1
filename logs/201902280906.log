@@ -1,0 +1,11 @@
+2019-02-28 09:06:22,788-BrowserEngline-INFO-You had select Chrome browser
+2019-02-28 09:06:22,788-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php
+2019-02-28 09:06:25,740-BrowserEngline-INFO-Staring chrome browser.
+2019-02-28 09:06:26,429-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php
+2019-02-28 09:06:27,577-BrowserEngline-INFO-Maximize the current window.
+2019-02-28 09:06:27,579-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-28 09:06:27,796-BasePage-INFO-输入内容
+2019-02-28 09:06:27,906-BasePage-INFO-输入内容
+2019-02-28 09:06:39,699-BasePage-ERROR-css selector页面未找到#normalthread_11 > tr > td.o > input[type="checkbox"]元素
+2019-02-28 09:06:49,928-BasePage-ERROR-css selector页面未找到#mdly > p:nth-child(6) > strong:nth-child(1) > a元素
+2019-02-28 09:07:00,995-BasePage-ERROR-css selector页面未找到#modsubmit > span元素

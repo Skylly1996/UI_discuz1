@@ -1,0 +1,16 @@
+2019-03-03 12:03:58,700-BrowserEngline-INFO-You had select Chrome browser
+2019-03-03 12:03:58,700-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 12:04:02,068-BrowserEngline-INFO-Staring chrome browser.
+2019-03-03 12:04:02,856-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 12:04:04,026-BrowserEngline-INFO-Maximize the current window.
+2019-03-03 12:04:04,027-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-03-03 12:04:04,268-BasePage-INFO-输入内容
+2019-03-03 12:04:04,410-BasePage-INFO-输入内容
+2019-03-03 12:04:40,065-BasePage-INFO-输入内容
+2019-03-03 12:04:54,776-BasePage-ERROR-link text页面未找到退出元素
+2019-03-03 12:04:58,574-BasePage-INFO-输入内容
+2019-03-03 12:04:58,710-BasePage-INFO-输入内容
+2019-03-03 12:05:10,467-BasePage-INFO-输入内容
+2019-03-03 12:05:10,659-BasePage-INFO-输入内容
+2019-03-03 12:05:36,856-BasePage-INFO-输入内容
+2019-03-03 12:05:54,091-BrowserEngline-INFO-日志记录退出并关闭浏览器

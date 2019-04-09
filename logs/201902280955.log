@@ -1,0 +1,15 @@
+2019-02-28 09:55:59,769-BrowserEngline-INFO-You had select Chrome browser
+2019-02-28 09:55:59,770-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=2
+2019-02-28 09:56:02,714-BrowserEngline-INFO-Staring chrome browser.
+2019-02-28 09:56:03,709-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=2
+2019-02-28 09:56:04,873-BrowserEngline-INFO-Maximize the current window.
+2019-02-28 09:56:04,877-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-28 09:56:04,950-BasePage-ERROR-Failed to type in input box with 'WebElement' object has no attribute 'sendkeys'
+2019-02-28 09:56:05,069-BasePage-ERROR-Failed to type in input box with 'WebElement' object has no attribute 'sendkeys'
+2019-02-28 09:56:16,349-BasePage-ERROR-css selector页面未找到#um > p:nth-child(2) > a:nth-child(16)元素
+2019-02-28 09:56:27,440-BasePage-ERROR-xpath页面未找到//*[@id="loginform"]/p[4]/input元素
+2019-02-28 09:56:27,440-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'sendkeys'
+2019-02-28 09:56:28,923-BasePage-ERROR-name页面未找到submit元素
+2019-02-28 09:56:28,926-BasePage-ERROR-id页面未找到header_forum元素
+2019-02-28 09:56:28,930-BasePage-ERROR-xpath页面未找到//*[@id="um"]/p[1]/a[5]元素
+2019-02-28 09:56:34,164-BrowserEngline-INFO-日志记录退出并关闭浏览器

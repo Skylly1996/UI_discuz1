@@ -1,0 +1,30 @@
+2019-02-28 14:08:06,183-BrowserEngline-INFO-You had select Chrome browser
+2019-02-28 14:08:06,183-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=2
+2019-02-28 14:08:09,084-BrowserEngline-INFO-Staring chrome browser.
+2019-02-28 14:08:09,977-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=2
+2019-02-28 14:08:11,124-BrowserEngline-INFO-Maximize the current window.
+2019-02-28 14:08:11,126-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-28 14:08:11,369-BasePage-INFO-输入内容
+2019-02-28 14:08:11,489-BasePage-INFO-输入内容
+2019-02-28 14:08:15,758-BasePage-ERROR-xpath页面未找到//*[@id="loginform"]/p[4]/input元素
+2019-02-28 14:08:15,758-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-28 14:08:20,225-BrowserEngline-INFO-You had select Chrome browser
+2019-02-28 14:08:20,225-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=2
+2019-02-28 14:08:21,898-BasePage-ERROR-name页面未找到submit元素
+2019-02-28 14:08:23,049-BrowserEngline-INFO-Staring chrome browser.
+2019-02-28 14:08:23,876-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=2
+2019-02-28 14:08:25,018-BrowserEngline-INFO-Maximize the current window.
+2019-02-28 14:08:25,018-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-28 14:08:25,304-BasePage-INFO-输入内容
+2019-02-28 14:08:25,459-BasePage-INFO-输入内容
+2019-02-28 14:08:27,926-BasePage-ERROR-id页面未找到header_forum元素
+2019-02-28 14:08:36,218-BrowserEngline-INFO-日志记录退出并关闭浏览器
+2019-02-28 14:08:41,308-BasePage-ERROR-xpath页面未找到//*[@id="loginform"]/p[4]/input元素
+2019-02-28 14:08:41,308-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-28 14:08:52,439-BasePage-ERROR-name页面未找到submit元素
+2019-02-28 14:09:03,896-BasePage-ERROR-class name页面未找到.addtr元素
+2019-02-28 14:09:15,011-BasePage-ERROR-name页面未找到iframe newforum[1][],元素
+2019-02-28 14:09:28,091-BasePage-ERROR-name页面未找到iframe newforum[1][],元素
+2019-02-28 14:09:28,091-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-28 14:09:39,153-BasePage-ERROR-name页面未找到submit_editsubmit元素
+2019-02-28 14:09:44,511-BrowserEngline-INFO-日志记录退出并关闭浏览器

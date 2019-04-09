@@ -1,0 +1,12 @@
+2019-02-27 17:33:17,230-BrowserEngline-INFO-You had select Chrome browser
+2019-02-27 17:33:17,230-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=viewthread&tid=1&extra=
+2019-02-27 17:33:20,415-BrowserEngline-INFO-Staring chrome browser.
+2019-02-27 17:33:21,770-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=viewthread&tid=1&extra=
+2019-02-27 17:33:22,915-BrowserEngline-INFO-Maximize the current window.
+2019-02-27 17:33:22,917-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-27 17:33:23,145-BasePage-INFO-输入内容
+2019-02-27 17:33:23,278-BasePage-INFO-输入内容
+2019-02-27 17:33:24,491-BasePage-INFO-输入内容
+2019-02-27 17:33:24,762-BasePage-INFO-输入内容
+2019-02-27 17:33:45,747-BasePage-INFO-输入内容
+2019-02-27 17:33:53,555-BrowserEngline-INFO-日志记录退出并关闭浏览器

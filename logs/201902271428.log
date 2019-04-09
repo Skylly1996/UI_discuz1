@@ -1,0 +1,10 @@
+2019-02-27 14:28:25,137-BrowserEngline-INFO-You had select Chrome browser
+2019-02-27 14:28:25,137-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=viewthread&tid=1&extra=
+2019-02-27 14:28:28,399-BrowserEngline-INFO-Staring chrome browser.
+2019-02-27 14:28:29,911-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=viewthread&tid=1&extra=
+2019-02-27 14:28:31,040-BrowserEngline-INFO-Maximize the current window.
+2019-02-27 14:28:31,042-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-27 14:28:31,196-BasePage-INFO-输入内容
+2019-02-27 14:28:31,325-BasePage-INFO-输入内容
+2019-02-27 14:28:41,760-BasePage-ERROR-class name页面未找到pn vm元素
+2019-02-27 14:28:55,013-BrowserEngline-INFO-日志记录退出并关闭浏览器

@@ -1,0 +1,14 @@
+2019-02-27 17:59:09,138-BrowserEngline-INFO-You had select Chrome browser
+2019-02-27 17:59:09,138-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=viewthread&tid=1&extra=
+2019-02-27 17:59:12,083-BrowserEngline-INFO-Staring chrome browser.
+2019-02-27 17:59:12,801-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=viewthread&tid=1&extra=
+2019-02-27 17:59:13,958-BrowserEngline-INFO-Maximize the current window.
+2019-02-27 17:59:13,960-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-27 17:59:14,176-BasePage-INFO-输入内容
+2019-02-27 17:59:14,308-BasePage-INFO-输入内容
+2019-02-27 17:59:26,551-BasePage-INFO-输入内容
+2019-02-27 17:59:26,838-BasePage-INFO-输入内容
+2019-02-27 17:59:59,686-BasePage-ERROR-id页面未找到fastpostmessage元素
+2019-02-27 17:59:59,687-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-27 18:00:10,961-BasePage-ERROR-xpath页面未找到//*[@id="um"]/p[1]/a[5]元素
+2019-02-27 18:00:18,727-BrowserEngline-INFO-日志记录退出并关闭浏览器

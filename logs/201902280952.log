@@ -1,0 +1,26 @@
+2019-02-28 09:52:30,951-BrowserEngline-INFO-You had select Chrome browser
+2019-02-28 09:52:30,951-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=2
+2019-02-28 09:52:33,919-BrowserEngline-INFO-Staring chrome browser.
+2019-02-28 09:52:34,634-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=2
+2019-02-28 09:52:35,761-BrowserEngline-INFO-Maximize the current window.
+2019-02-28 09:52:35,764-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-28 09:52:36,050-BasePage-INFO-输入内容
+2019-02-28 09:52:36,225-BasePage-INFO-输入内容
+2019-02-28 09:52:45,160-BasePage-ERROR-xpath页面未找到//*[@id="loginform"]/p[4]/input元素
+2019-02-28 09:52:45,161-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-28 09:52:45,204-BasePage-ERROR-xpath页面未找到//*[@id="um"]/p[1]/a[5]元素
+2019-02-28 09:52:50,442-BrowserEngline-INFO-日志记录退出并关闭浏览器
+2019-02-28 09:52:59,518-BrowserEngline-INFO-You had select Chrome browser
+2019-02-28 09:52:59,519-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=2
+2019-02-28 09:53:03,178-BrowserEngline-INFO-Staring chrome browser.
+2019-02-28 09:53:03,955-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=2
+2019-02-28 09:53:05,124-BrowserEngline-INFO-Maximize the current window.
+2019-02-28 09:53:05,126-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-28 09:53:05,332-BasePage-INFO-输入内容
+2019-02-28 09:53:05,446-BasePage-INFO-输入内容
+2019-02-28 09:53:17,596-BasePage-ERROR-xpath页面未找到//*[@id="loginform"]/p[4]/input元素
+2019-02-28 09:53:17,596-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-28 09:53:28,660-BasePage-ERROR-name页面未找到submit元素
+2019-02-28 09:53:34,692-BasePage-ERROR-css selector页面未找到#header_forum元素
+2019-02-28 09:53:40,726-BasePage-ERROR-xpath页面未找到//*[@id="um"]/p[1]/a[5]元素
+2019-02-28 09:53:45,991-BrowserEngline-INFO-日志记录退出并关闭浏览器

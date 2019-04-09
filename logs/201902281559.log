@@ -1,0 +1,14 @@
+2019-02-28 15:59:50,310-BrowserEngline-INFO-You had select Chrome browser
+2019-02-28 15:59:50,310-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php
+2019-02-28 15:59:53,185-BrowserEngline-INFO-Staring chrome browser.
+2019-02-28 15:59:53,865-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php
+2019-02-28 15:59:55,059-BrowserEngline-INFO-Maximize the current window.
+2019-02-28 15:59:55,059-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-28 15:59:55,281-BasePage-INFO-输入内容
+2019-02-28 15:59:55,457-BasePage-INFO-输入内容
+2019-02-28 16:00:09,773-BasePage-ERROR-css selector页面未找到.px元素
+2019-02-28 16:00:09,773-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-28 16:00:17,865-BasePage-INFO-输入内容
+2019-02-28 16:00:33,285-BasePage-INFO-输入内容
+2019-02-28 16:00:44,748-BasePage-ERROR-css selector页面未找到#um > p:nth-child(2) > a:nth-child(12)元素
+2019-02-28 16:00:52,085-BrowserEngline-INFO-日志记录退出并关闭浏览器

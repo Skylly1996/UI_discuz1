@@ -1,0 +1,16 @@
+2019-02-27 16:31:29,290-BrowserEngline-INFO-You had select Chrome browser
+2019-02-27 16:31:29,291-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=viewthread&tid=1&extra=
+2019-02-27 16:31:33,035-BrowserEngline-INFO-Staring chrome browser.
+2019-02-27 16:31:34,673-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=viewthread&tid=1&extra=
+2019-02-27 16:31:35,847-BrowserEngline-INFO-Maximize the current window.
+2019-02-27 16:31:35,851-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-27 16:31:36,102-BasePage-INFO-输入内容
+2019-02-27 16:31:36,243-BasePage-INFO-输入内容
+2019-02-27 16:31:46,938-BasePage-ERROR-id页面未找到subject元素
+2019-02-27 16:31:46,938-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-27 16:31:47,049-BasePage-ERROR-Failed to type in input box with Message: unknown error: cannot focus element
+  (Session info: chrome=72.0.3626.64)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 16:31:57,088-BasePage-ERROR-class name页面未找到p .pn strong元素
+2019-02-27 16:32:02,713-BrowserEngline-INFO-日志记录退出并关闭浏览器

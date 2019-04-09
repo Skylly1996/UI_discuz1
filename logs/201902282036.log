@@ -1,0 +1,14 @@
+2019-02-28 20:36:15,324-BrowserEngline-INFO-You had select Chrome browser
+2019-02-28 20:36:15,324-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-02-28 20:36:18,170-BrowserEngline-INFO-Staring chrome browser.
+2019-02-28 20:36:20,306-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-02-28 20:36:21,429-BrowserEngline-INFO-Maximize the current window.
+2019-02-28 20:36:21,434-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-28 20:36:21,699-BasePage-INFO-输入内容
+2019-02-28 20:36:21,869-BasePage-INFO-输入内容
+2019-02-28 20:36:39,086-BasePage-ERROR-css selector页面未找到#category_1>table>tbody>tr:nth-child(1)>td:nth-child(2)>h2>a元素
+2019-02-28 20:36:56,239-BasePage-INFO-输入内容
+2019-02-28 20:36:56,396-BasePage-INFO-输入内容
+2019-02-28 20:36:56,527-BasePage-INFO-输入内容
+2019-02-28 20:37:08,409-BasePage-ERROR-xpath页面未找到#um > p:nth-child(2) > a:nth-child(13)元素
+2019-02-28 20:37:15,805-BrowserEngline-INFO-日志记录退出并关闭浏览器

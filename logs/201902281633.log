@@ -1,0 +1,24 @@
+2019-02-28 16:33:18,951-BrowserEngline-INFO-You had select Chrome browser
+2019-02-28 16:33:18,951-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php
+2019-02-28 16:33:21,814-BrowserEngline-INFO-Staring chrome browser.
+2019-02-28 16:33:22,830-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php
+2019-02-28 16:33:23,983-BrowserEngline-INFO-Maximize the current window.
+2019-02-28 16:33:23,984-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-28 16:33:24,212-BasePage-INFO-输入内容
+2019-02-28 16:33:24,347-BasePage-INFO-输入内容
+2019-02-28 16:33:28,247-BasePage-INFO-输入内容
+2019-02-28 16:33:28,552-BasePage-INFO-输入内容
+2019-02-28 16:33:43,915-BasePage-INFO-输入内容
+2019-02-28 16:33:55,365-BrowserEngline-INFO-You had select Chrome browser
+2019-02-28 16:33:55,365-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php
+2019-02-28 16:33:58,209-BrowserEngline-INFO-Staring chrome browser.
+2019-02-28 16:33:58,844-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php
+2019-02-28 16:34:00,025-BrowserEngline-INFO-Maximize the current window.
+2019-02-28 16:34:00,030-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-28 16:34:00,319-BasePage-INFO-输入内容
+2019-02-28 16:34:00,475-BasePage-INFO-输入内容
+2019-02-28 16:34:04,463-BasePage-INFO-输入内容
+2019-02-28 16:34:04,804-BasePage-INFO-输入内容
+2019-02-28 16:34:21,535-BasePage-INFO-输入内容
+2019-02-28 16:34:33,578-BasePage-ERROR-xpath页面未找到#um > p:nth-child(2) > a:nth-child(18)元素
+2019-02-28 16:34:40,842-BrowserEngline-INFO-日志记录退出并关闭浏览器

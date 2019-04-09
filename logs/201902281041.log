@@ -1,0 +1,29 @@
+2019-02-28 10:41:06,050-BrowserEngline-INFO-You had select Chrome browser
+2019-02-28 10:41:06,050-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=2
+2019-02-28 10:41:09,315-BrowserEngline-INFO-Staring chrome browser.
+2019-02-28 10:41:10,014-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=2
+2019-02-28 10:41:11,149-BrowserEngline-INFO-Maximize the current window.
+2019-02-28 10:41:11,152-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-28 10:41:11,332-BasePage-INFO-输入内容
+2019-02-28 10:41:11,494-BasePage-INFO-输入内容
+2019-02-28 10:41:16,640-BasePage-ERROR-id页面未找到header_forum元素
+2019-02-28 10:41:16,655-BasePage-ERROR-class name页面未找到addtr元素
+2019-02-28 10:41:16,655-BasePage-ERROR-name页面未找到newforum[1][],元素
+2019-02-28 10:41:16,655-BasePage-ERROR-name页面未找到newforum[1][],元素
+2019-02-28 10:41:16,655-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-28 10:41:16,655-BasePage-ERROR-name页面未找到submit_editsubmit元素
+2019-02-28 10:41:16,671-BasePage-ERROR-css selector页面未找到#header_forum元素
+2019-02-28 10:41:21,920-BrowserEngline-INFO-日志记录退出并关闭浏览器
+2019-02-28 10:41:25,106-BrowserEngline-INFO-You had select Chrome browser
+2019-02-28 10:41:25,106-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=2
+2019-02-28 10:41:27,979-BrowserEngline-INFO-Staring chrome browser.
+2019-02-28 10:41:28,672-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=2
+2019-02-28 10:41:29,830-BrowserEngline-INFO-Maximize the current window.
+2019-02-28 10:41:29,830-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-28 10:41:30,059-BasePage-INFO-输入内容
+2019-02-28 10:41:30,174-BasePage-INFO-输入内容
+2019-02-28 10:41:32,402-BasePage-INFO-输入内容
+2019-02-28 10:42:06,402-BasePage-ERROR-class name页面未找到addtr元素
+2019-02-28 10:42:17,519-BasePage-ERROR-name页面未找到newforum[1][],元素
+2019-02-28 10:42:28,568-BasePage-ERROR-name页面未找到newforum[1][],元素
+2019-02-28 10:42:28,568-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'

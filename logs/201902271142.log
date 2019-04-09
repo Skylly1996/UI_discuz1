@@ -1,0 +1,8 @@
+2019-02-27 11:42:52,841-BrowserEngline-INFO-You had select Chrome browser
+2019-02-27 11:42:52,841-BrowserEngline-INFO-The test sever url is:http://www.baidu.com
+2019-02-27 11:42:56,238-BrowserEngline-INFO-Staring chrome browser.
+2019-02-27 11:42:57,766-BrowserEngline-INFO-Open url:http://www.baidu.com
+2019-02-27 11:42:58,957-BrowserEngline-INFO-Maximize the current window.
+2019-02-27 11:42:58,961-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-27 11:42:59,160-BasePage-ERROR-Failed to type in input box with 'str' object has no attribute 'text'
+2019-02-27 11:43:11,592-BrowserEngline-INFO-日志记录退出并关闭浏览器

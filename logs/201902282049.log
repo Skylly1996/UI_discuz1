@@ -1,0 +1,17 @@
+2019-02-28 20:49:14,029-BrowserEngline-INFO-You had select Chrome browser
+2019-02-28 20:49:14,029-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-02-28 20:49:17,184-BrowserEngline-INFO-Staring chrome browser.
+2019-02-28 20:49:21,470-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-02-28 20:49:22,594-BrowserEngline-INFO-Maximize the current window.
+2019-02-28 20:49:22,597-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-28 20:49:22,883-BasePage-INFO-输入内容
+2019-02-28 20:49:23,044-BasePage-INFO-输入内容
+2019-02-28 20:49:39,240-BasePage-ERROR-css selector页面未找到#category_1>table>tbody>tr:nth-child(1)>td:nth-child(2)>h2>a元素
+2019-02-28 20:49:44,738-BasePage-INFO-输入内容
+2019-02-28 20:49:44,825-BasePage-ERROR-Failed to type in input box with Message: unknown error: cannot focus element
+  (Session info: chrome=72.0.3626.64)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-28 20:49:45,128-BasePage-INFO-输入内容
+2019-02-28 20:49:51,411-BasePage-ERROR-xpath页面未找到#um > p:nth-child(2) > a:nth-child(13)元素
+2019-02-28 20:49:58,722-BrowserEngline-INFO-日志记录退出并关闭浏览器

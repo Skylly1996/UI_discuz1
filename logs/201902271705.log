@@ -1,0 +1,23 @@
+2019-02-27 17:05:02,905-BrowserEngline-INFO-You had select Chrome browser
+2019-02-27 17:05:02,905-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=viewthread&tid=1&extra=
+2019-02-27 17:05:05,968-BrowserEngline-INFO-Staring chrome browser.
+2019-02-27 17:05:07,386-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=viewthread&tid=1&extra=
+2019-02-27 17:05:08,520-BrowserEngline-INFO-Maximize the current window.
+2019-02-27 17:05:08,525-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-27 17:05:08,837-BasePage-INFO-输入内容
+2019-02-27 17:05:09,035-BasePage-INFO-输入内容
+2019-02-27 17:05:22,498-BasePage-ERROR-class name页面未找到.px元素
+2019-02-27 17:05:22,500-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-27 17:05:22,798-BasePage-INFO-输入内容
+2019-02-27 17:05:30,329-BrowserEngline-INFO-日志记录退出并关闭浏览器
+2019-02-27 17:05:39,402-BrowserEngline-INFO-You had select Chrome browser
+2019-02-27 17:05:39,403-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=viewthread&tid=1&extra=
+2019-02-27 17:05:42,162-BrowserEngline-INFO-Staring chrome browser.
+2019-02-27 17:05:43,393-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=viewthread&tid=1&extra=
+2019-02-27 17:05:44,574-BrowserEngline-INFO-Maximize the current window.
+2019-02-27 17:05:44,576-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-27 17:05:44,811-BasePage-INFO-输入内容
+2019-02-27 17:05:44,940-BasePage-INFO-输入内容
+2019-02-27 17:05:46,192-BasePage-INFO-输入内容
+2019-02-27 17:05:46,512-BasePage-INFO-输入内容
+2019-02-27 17:05:54,708-BrowserEngline-INFO-日志记录退出并关闭浏览器

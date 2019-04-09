@@ -1,0 +1,18 @@
+2019-02-27 17:53:59,839-BrowserEngline-INFO-You had select Chrome browser
+2019-02-27 17:53:59,839-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=viewthread&tid=1&extra=
+2019-02-27 17:54:02,805-BrowserEngline-INFO-Staring chrome browser.
+2019-02-27 17:54:03,504-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=viewthread&tid=1&extra=
+2019-02-27 17:54:04,684-BrowserEngline-INFO-Maximize the current window.
+2019-02-27 17:54:04,687-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-27 17:54:04,932-BasePage-INFO-输入内容
+2019-02-27 17:54:05,147-BasePage-INFO-输入内容
+2019-02-27 17:54:21,496-BasePage-ERROR-xpath页面未找到//*[@id="pt"]/div/a[4]元素
+2019-02-27 17:54:32,652-BasePage-ERROR-css selector页面未找到.px元素
+2019-02-27 17:54:32,656-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-27 17:54:43,816-BasePage-ERROR-css selector页面未找到.pt元素
+2019-02-27 17:54:43,817-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-27 17:54:54,902-BasePage-ERROR-css selector页面未找到p .pn strong元素
+2019-02-27 17:55:26,092-BasePage-ERROR-id页面未找到fastpostmessage元素
+2019-02-27 17:55:26,092-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-27 17:55:37,169-BasePage-ERROR-xpath页面未找到//*[@id="fastpostsubmit"]元素
+2019-02-27 17:55:45,274-BrowserEngline-INFO-日志记录退出并关闭浏览器

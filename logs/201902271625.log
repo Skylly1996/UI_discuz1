@@ -1,0 +1,30 @@
+2019-02-27 16:25:13,950-BrowserEngline-INFO-You had select Chrome browser
+2019-02-27 16:25:13,950-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=viewthread&tid=1&extra=
+2019-02-27 16:25:18,002-BrowserEngline-INFO-Staring chrome browser.
+2019-02-27 16:25:20,273-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=viewthread&tid=1&extra=
+2019-02-27 16:25:21,415-BrowserEngline-INFO-Maximize the current window.
+2019-02-27 16:25:21,419-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-27 16:25:21,618-BasePage-INFO-输入内容
+2019-02-27 16:25:21,817-BasePage-INFO-输入内容
+2019-02-27 16:25:29,970-BasePage-ERROR-link text页面未找到默认板块元素
+2019-02-27 16:25:29,978-BasePage-ERROR-id页面未找到subject元素
+2019-02-27 16:25:29,979-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-27 16:25:29,985-BasePage-ERROR-css selector页面未找到.pt元素
+2019-02-27 16:25:29,985-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-27 16:25:32,413-BrowserEngline-INFO-日志记录退出并关闭浏览器
+2019-02-27 16:25:44,259-BrowserEngline-INFO-You had select Chrome browser
+2019-02-27 16:25:44,259-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=viewthread&tid=1&extra=
+2019-02-27 16:25:47,664-BrowserEngline-INFO-Staring chrome browser.
+2019-02-27 16:25:49,631-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=viewthread&tid=1&extra=
+2019-02-27 16:25:50,784-BrowserEngline-INFO-Maximize the current window.
+2019-02-27 16:25:50,789-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-27 16:25:51,078-BasePage-INFO-输入内容
+2019-02-27 16:25:51,278-BasePage-INFO-输入内容
+2019-02-27 16:26:01,892-BasePage-ERROR-link text页面未找到默认板块元素
+2019-02-27 16:26:12,468-BasePage-ERROR-id页面未找到subject元素
+2019-02-27 16:26:12,468-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-27 16:26:12,616-BasePage-ERROR-Failed to type in input box with Message: unknown error: cannot focus element
+  (Session info: chrome=72.0.3626.64)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 16:26:15,125-BrowserEngline-INFO-日志记录退出并关闭浏览器

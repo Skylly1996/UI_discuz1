@@ -1,0 +1,10 @@
+2019-02-28 10:00:38,583-BrowserEngline-INFO-You had select Chrome browser
+2019-02-28 10:00:38,584-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=2
+2019-02-28 10:00:41,455-BrowserEngline-INFO-Staring chrome browser.
+2019-02-28 10:00:42,212-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=2
+2019-02-28 10:00:43,377-BrowserEngline-INFO-Maximize the current window.
+2019-02-28 10:00:43,381-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-28 10:00:43,610-BasePage-INFO-输入内容
+2019-02-28 10:00:43,719-BasePage-INFO-输入内容
+2019-02-28 10:00:55,901-BasePage-ERROR-id页面未找到header_forum元素
+2019-02-28 10:01:06,631-BrowserEngline-INFO-日志记录退出并关闭浏览器

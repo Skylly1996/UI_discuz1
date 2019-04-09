@@ -1,0 +1,11 @@
+2019-02-28 20:10:31,030-BrowserEngline-INFO-You had select Chrome browser
+2019-02-28 20:10:31,030-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php
+2019-02-28 20:10:34,303-BrowserEngline-INFO-Staring chrome browser.
+2019-02-28 20:10:35,018-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php
+2019-02-28 20:10:36,145-BrowserEngline-INFO-Maximize the current window.
+2019-02-28 20:10:36,147-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-28 20:10:41,427-BasePage-INFO-输入内容
+2019-02-28 20:10:41,582-BasePage-INFO-输入内容
+2019-02-28 20:10:52,346-BasePage-INFO-输入内容
+2019-02-28 20:11:07,916-BasePage-ERROR-class name页面未找到.ts元素
+2019-02-28 20:11:10,376-BrowserEngline-INFO-日志记录退出并关闭浏览器

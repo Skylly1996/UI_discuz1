@@ -1,0 +1,16 @@
+2019-02-28 13:56:38,757-BrowserEngline-INFO-You had select Chrome browser
+2019-02-28 13:56:38,757-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=2
+2019-02-28 13:56:41,865-BrowserEngline-INFO-Staring chrome browser.
+2019-02-28 13:56:42,644-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=2
+2019-02-28 13:56:43,772-BrowserEngline-INFO-Maximize the current window.
+2019-02-28 13:56:43,776-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-28 13:56:44,167-BasePage-INFO-输入内容
+2019-02-28 13:56:44,520-BasePage-INFO-输入内容
+2019-02-28 13:57:01,054-BasePage-ERROR-css selector页面未找到#category_1 > table > tbody > tr:nth-child(3) > td:nth-child(2)元素
+2019-02-28 13:57:01,241-BasePage-INFO-输入内容
+2019-02-28 13:57:01,415-BasePage-INFO-输入内容
+2019-02-28 13:57:23,841-BasePage-ERROR-id页面未找到fastpostmessage元素
+2019-02-28 13:57:23,841-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-28 13:57:29,878-BasePage-ERROR-xpath页面未找到//*[@id="fastpostsubmit"]元素
+2019-02-28 13:57:35,911-BasePage-ERROR-css selector页面未找到#header_forum元素
+2019-02-28 13:57:41,129-BrowserEngline-INFO-日志记录退出并关闭浏览器

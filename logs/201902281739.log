@@ -1,0 +1,22 @@
+2019-02-28 17:39:05,882-BrowserEngline-INFO-You had select Chrome browser
+2019-02-28 17:39:05,882-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php
+2019-02-28 17:39:09,251-BrowserEngline-INFO-Staring chrome browser.
+2019-02-28 17:39:09,956-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php
+2019-02-28 17:39:11,105-BrowserEngline-INFO-Maximize the current window.
+2019-02-28 17:39:11,108-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-28 17:39:11,343-BasePage-INFO-输入内容
+2019-02-28 17:39:11,465-BasePage-INFO-输入内容
+2019-02-28 17:39:22,075-BasePage-ERROR-class name页面未找到s xst元素
+2019-02-28 17:39:37,845-BrowserEngline-INFO-日志记录退出并关闭浏览器
+2019-02-28 17:39:51,801-BrowserEngline-INFO-You had select Chrome browser
+2019-02-28 17:39:51,803-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php
+2019-02-28 17:39:55,267-BrowserEngline-INFO-Staring chrome browser.
+2019-02-28 17:39:56,017-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php
+2019-02-28 17:39:57,144-BrowserEngline-INFO-Maximize the current window.
+2019-02-28 17:39:57,147-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-28 17:39:57,352-BasePage-INFO-输入内容
+2019-02-28 17:39:57,470-BasePage-INFO-输入内容
+2019-02-28 17:40:07,597-BasePage-ERROR-class name页面未找到s xst元素
+2019-02-28 17:40:18,645-BasePage-ERROR-css selector页面未找到#newspecial > img元素
+2019-02-28 17:40:29,713-BasePage-ERROR-css selector页面未找到#editorbox > ul > li:nth-child(2) > a元素
+2019-02-28 17:40:37,081-BrowserEngline-INFO-日志记录退出并关闭浏览器

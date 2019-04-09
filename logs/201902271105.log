@@ -1,0 +1,7 @@
+2019-02-27 11:05:31,513-BrowserEngline-INFO-You had select Chrome browser
+2019-02-27 11:05:31,513-BrowserEngline-INFO-The test sever url is:http://www.baidu.com
+2019-02-27 11:05:35,055-BrowserEngline-INFO-Staring chrome browser.
+2019-02-27 11:06:00,673-BrowserEngline-INFO-Open url:http://www.baidu.com
+2019-02-27 11:06:02,038-BrowserEngline-INFO-Maximize the current window.
+2019-02-27 11:06:02,043-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-27 11:06:04,550-BrowserEngline-INFO-日志记录退出并关闭浏览器

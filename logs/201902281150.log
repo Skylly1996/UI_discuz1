@@ -1,0 +1,19 @@
+2019-02-28 11:50:03,845-BrowserEngline-INFO-You had select Chrome browser
+2019-02-28 11:50:03,845-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=2
+2019-02-28 11:50:06,835-BrowserEngline-INFO-Staring chrome browser.
+2019-02-28 11:50:07,589-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=2
+2019-02-28 11:50:08,742-BrowserEngline-INFO-Maximize the current window.
+2019-02-28 11:50:08,743-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-28 11:50:08,984-BasePage-INFO-输入内容
+2019-02-28 11:50:09,114-BasePage-INFO-输入内容
+2019-02-28 11:50:22,527-BasePage-ERROR-class name页面未找到.addtr元素
+2019-02-28 11:50:33,630-BasePage-ERROR-name页面未找到iframe newforum[1][],元素
+2019-02-28 11:50:53,338-BrowserEngline-INFO-You had select Chrome browser
+2019-02-28 11:50:53,338-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=2
+2019-02-28 11:50:56,207-BrowserEngline-INFO-Staring chrome browser.
+2019-02-28 11:50:57,126-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=2
+2019-02-28 11:50:58,293-BrowserEngline-INFO-Maximize the current window.
+2019-02-28 11:50:58,296-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-28 11:50:58,560-BasePage-INFO-输入内容
+2019-02-28 11:50:58,691-BasePage-INFO-输入内容
+2019-02-28 11:51:03,607-BrowserEngline-INFO-日志记录退出并关闭浏览器

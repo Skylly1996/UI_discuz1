@@ -1,0 +1,15 @@
+2019-02-28 11:54:21,731-BrowserEngline-INFO-You had select Chrome browser
+2019-02-28 11:54:21,731-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=2
+2019-02-28 11:54:24,600-BrowserEngline-INFO-Staring chrome browser.
+2019-02-28 11:54:25,610-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=2
+2019-02-28 11:54:26,738-BrowserEngline-INFO-Maximize the current window.
+2019-02-28 11:54:26,741-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-28 11:54:26,900-BasePage-INFO-输入内容
+2019-02-28 11:54:27,051-BasePage-INFO-输入内容
+2019-02-28 11:54:40,576-BasePage-ERROR-class name页面未找到.addtr元素
+2019-02-28 11:54:51,638-BasePage-ERROR-name页面未找到iframe newforum[1][],元素
+2019-02-28 11:55:02,733-BasePage-ERROR-name页面未找到iframe newforum[1][],元素
+2019-02-28 11:55:02,733-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-28 11:55:13,853-BasePage-ERROR-name页面未找到submit_editsubmit元素
+2019-02-28 11:55:24,902-BasePage-ERROR-css selector页面未找到#header_forum元素
+2019-02-28 11:55:30,338-BrowserEngline-INFO-日志记录退出并关闭浏览器

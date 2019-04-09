@@ -1,0 +1,41 @@
+2019-02-27 17:49:14,210-BrowserEngline-INFO-You had select Chrome browser
+2019-02-27 17:49:14,210-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=viewthread&tid=1&extra=
+2019-02-27 17:49:17,255-BrowserEngline-INFO-Staring chrome browser.
+2019-02-27 17:49:17,876-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=viewthread&tid=1&extra=
+2019-02-27 17:49:19,050-BrowserEngline-INFO-Maximize the current window.
+2019-02-27 17:49:19,052-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-27 17:49:19,273-BasePage-INFO-输入内容
+2019-02-27 17:49:19,382-BasePage-INFO-输入内容
+2019-02-27 17:49:29,152-BasePage-INFO-输入内容
+2019-02-27 17:49:29,404-BasePage-INFO-输入内容
+2019-02-27 17:49:36,618-BrowserEngline-INFO-You had select Chrome browser
+2019-02-27 17:49:36,618-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=viewthread&tid=1&extra=
+2019-02-27 17:49:39,826-BrowserEngline-INFO-Staring chrome browser.
+2019-02-27 17:49:40,455-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=viewthread&tid=1&extra=
+2019-02-27 17:49:41,622-BrowserEngline-INFO-Maximize the current window.
+2019-02-27 17:49:41,629-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-27 17:49:41,931-BasePage-INFO-输入内容
+2019-02-27 17:49:42,056-BasePage-INFO-输入内容
+2019-02-27 17:49:50,507-BasePage-ERROR-xpath页面未找到//*[@id="pt"]/div/a[4]元素
+2019-02-27 17:49:50,511-BasePage-ERROR-css selector页面未找到.px元素
+2019-02-27 17:49:50,512-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-27 17:49:50,516-BasePage-ERROR-css selector页面未找到.pt元素
+2019-02-27 17:49:50,516-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-27 17:49:50,520-BasePage-ERROR-css selector页面未找到p .pn strong元素
+2019-02-27 17:49:53,660-BrowserEngline-INFO-You had select Chrome browser
+2019-02-27 17:49:53,660-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=viewthread&tid=1&extra=
+2019-02-27 17:49:56,583-BrowserEngline-INFO-Staring chrome browser.
+2019-02-27 17:49:57,227-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=viewthread&tid=1&extra=
+2019-02-27 17:49:58,376-BrowserEngline-INFO-Maximize the current window.
+2019-02-27 17:49:58,379-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-27 17:49:58,691-BasePage-INFO-输入内容
+2019-02-27 17:49:58,851-BasePage-INFO-输入内容
+2019-02-27 17:50:05,898-BasePage-INFO-输入内容
+2019-02-27 17:50:06,214-BasePage-INFO-输入内容
+2019-02-27 17:50:10,524-BasePage-ERROR-id页面未找到fastpostmessage元素
+2019-02-27 17:50:10,525-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-27 17:50:10,537-BasePage-ERROR-xpath页面未找到//*[@id="fastpostsubmit"]元素
+2019-02-27 17:50:10,541-BasePage-ERROR-xpath页面未找到//*[@id="um"]/p[1]/a[5]元素
+2019-02-27 17:50:17,812-BrowserEngline-INFO-日志记录退出并关闭浏览器
+2019-02-27 17:50:28,063-BasePage-INFO-输入内容
+2019-02-27 17:50:36,735-BrowserEngline-INFO-日志记录退出并关闭浏览器

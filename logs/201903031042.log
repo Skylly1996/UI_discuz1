@@ -1,0 +1,25 @@
+2019-03-03 10:42:58,661-BrowserEngline-INFO-You had select Chrome browser
+2019-03-03 10:42:58,661-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 10:43:01,721-BrowserEngline-INFO-Staring chrome browser.
+2019-03-03 10:43:02,510-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 10:43:03,698-BrowserEngline-INFO-Maximize the current window.
+2019-03-03 10:43:03,698-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-03-03 10:43:03,927-BasePage-INFO-输入内容
+2019-03-03 10:43:04,052-BasePage-INFO-输入内容
+2019-03-03 10:43:15,195-BasePage-ERROR-xpath页面未找到//*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a元素
+2019-03-03 10:43:18,161-BasePage-INFO-输入内容
+2019-03-03 10:43:44,086-BasePage-INFO-输入内容
+2019-03-03 10:43:56,477-BasePage-ERROR-id页面未找到ls_username元素
+2019-03-03 10:43:56,478-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-03-03 10:44:07,604-BasePage-ERROR-id页面未找到ls_password元素
+2019-03-03 10:44:07,604-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-03-03 10:44:24,341-BasePage-ERROR-css selector页面未找到#category_1 > table > tbody > tr:nth-child(3) > td:nth-child(2) > h2 > a元素
+2019-03-03 10:44:24,479-BasePage-INFO-输入内容
+2019-03-03 10:44:35,609-BasePage-ERROR-css selector页面未找到.pt元素
+2019-03-03 10:44:35,609-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-03-03 10:44:46,747-BasePage-ERROR-css selector页面未找到p .pn strong元素
+2019-03-03 10:45:07,832-BasePage-ERROR-id页面未找到fastpostmessage元素
+2019-03-03 10:45:07,832-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-03-03 10:45:13,876-BasePage-ERROR-xpath页面未找到//*[@id="fastpostsubmit"]元素
+2019-03-03 10:45:19,896-BasePage-ERROR-xpath页面未找到//*[@id="um"]/p[1]/a[5]元素
+2019-03-03 10:45:25,199-BrowserEngline-INFO-日志记录退出并关闭浏览器

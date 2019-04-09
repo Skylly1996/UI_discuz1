@@ -1,0 +1,16 @@
+2019-02-28 09:10:34,319-BrowserEngline-INFO-You had select Chrome browser
+2019-02-28 09:10:34,319-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php
+2019-02-28 09:10:37,184-BrowserEngline-INFO-Staring chrome browser.
+2019-02-28 09:10:37,928-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php
+2019-02-28 09:10:39,087-BrowserEngline-INFO-Maximize the current window.
+2019-02-28 09:10:39,090-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-28 09:10:39,328-BasePage-INFO-输入内容
+2019-02-28 09:10:39,469-BasePage-INFO-输入内容
+2019-02-28 09:10:50,654-BasePage-ERROR-css selector页面未找到moderate[]元素
+2019-02-28 09:11:01,755-BasePage-ERROR-css selector页面未找到#mdly > p:nth-child(6) > strong:nth-child(1) > a元素
+2019-02-28 09:11:12,882-BasePage-ERROR-css selector页面未找到#modsubmit > span元素
+2019-02-28 09:11:24,219-BasePage-ERROR-id页面未找到ls_username元素
+2019-02-28 09:11:24,219-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-28 09:11:35,376-BasePage-ERROR-id页面未找到ls_password元素
+2019-02-28 09:11:35,376-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-28 09:11:46,484-BasePage-ERROR-css selector页面未找到.pn em元素

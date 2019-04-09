@@ -1,0 +1,27 @@
+2019-03-11 20:05:17,587-BrowserEngline-INFO-You had select Chrome browser
+2019-03-11 20:05:17,588-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-11 20:05:22,204-BrowserEngline-INFO-Staring chrome browser.
+2019-03-11 20:05:26,355-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-11 20:05:27,490-BrowserEngline-INFO-Maximize the current window.
+2019-03-11 20:05:27,492-BrowserEngline-INFO-Set implicity wait 5 seconds. 
+2019-03-11 20:05:27,755-BasePage-INFO-输入内容
+2019-03-11 20:05:28,036-BasePage-INFO-输入内容
+2019-03-11 20:05:35,336-BasePage-INFO-Had take screenshot and save to folder:/screenshots
+2019-03-11 20:05:35,555-BasePage-INFO-输入内容
+2019-03-11 20:05:35,654-BasePage-ERROR-Failed to type in input box with Message: unknown error: cannot focus element
+  (Session info: chrome=72.0.3626.64)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-03-11 20:05:49,165-BrowserEngline-INFO-You had select Chrome browser
+2019-03-11 20:05:49,165-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-11 20:05:52,362-BrowserEngline-INFO-Staring chrome browser.
+2019-03-11 20:05:53,076-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-11 20:05:54,198-BrowserEngline-INFO-Maximize the current window.
+2019-03-11 20:05:54,200-BrowserEngline-INFO-Set implicity wait 5 seconds. 
+2019-03-11 20:05:54,357-BasePage-INFO-输入内容
+2019-03-11 20:05:54,536-BasePage-INFO-输入内容
+2019-03-11 20:05:58,379-BasePage-INFO-Had take screenshot and save to folder:/screenshots
+2019-03-11 20:05:58,579-BasePage-INFO-输入内容
+2019-03-11 20:05:58,894-BasePage-INFO-输入内容
+2019-03-11 20:06:14,139-BasePage-INFO-输入内容
+2019-03-11 20:06:21,943-BrowserEngline-INFO-日志记录退出并关闭浏览器

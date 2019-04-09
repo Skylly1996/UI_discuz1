@@ -1,0 +1,27 @@
+2019-03-03 10:44:56,335-BrowserEngline-INFO-You had select Chrome browser
+2019-03-03 10:44:56,335-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 10:44:59,406-BrowserEngline-INFO-Staring chrome browser.
+2019-03-03 10:45:00,148-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 10:45:01,311-BrowserEngline-INFO-Maximize the current window.
+2019-03-03 10:45:01,313-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-03-03 10:45:01,580-BasePage-INFO-输入内容
+2019-03-03 10:45:01,708-BasePage-INFO-输入内容
+2019-03-03 10:45:12,870-BasePage-ERROR-xpath页面未找到//*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a元素
+2019-03-03 10:45:26,568-BasePage-ERROR-xpath页面未找到//*[@id="loginform"]/p[4]/input元素
+2019-03-03 10:45:26,569-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-03-03 10:45:37,712-BasePage-ERROR-name页面未找到submit元素
+2019-03-03 10:45:38,633-BasePage-INFO-输入内容
+2019-03-03 10:45:50,679-BasePage-ERROR-id页面未找到ls_username元素
+2019-03-03 10:45:50,679-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-03-03 10:46:01,774-BasePage-ERROR-id页面未找到ls_password元素
+2019-03-03 10:46:01,774-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-03-03 10:46:18,261-BasePage-ERROR-css selector页面未找到#category_1 > table > tbody > tr:nth-child(3) > td:nth-child(2) > h2 > a元素
+2019-03-03 10:46:18,503-BasePage-INFO-输入内容
+2019-03-03 10:46:29,576-BasePage-ERROR-css selector页面未找到.pt元素
+2019-03-03 10:46:29,576-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-03-03 10:46:40,689-BasePage-ERROR-css selector页面未找到p .pn strong元素
+2019-03-03 10:47:01,817-BasePage-ERROR-id页面未找到fastpostmessage元素
+2019-03-03 10:47:01,817-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-03-03 10:47:07,925-BasePage-ERROR-xpath页面未找到//*[@id="fastpostsubmit"]元素
+2019-03-03 10:47:14,033-BasePage-ERROR-xpath页面未找到//*[@id="um"]/p[1]/a[5]元素
+2019-03-03 10:47:19,422-BrowserEngline-INFO-日志记录退出并关闭浏览器

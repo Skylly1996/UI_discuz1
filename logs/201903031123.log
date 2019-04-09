@@ -1,0 +1,60 @@
+2019-03-03 11:23:08,093-BrowserEngline-INFO-You had select Chrome browser
+2019-03-03 11:23:08,093-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 11:23:11,184-BrowserEngline-INFO-Staring chrome browser.
+2019-03-03 11:23:22,707-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 11:23:23,886-BrowserEngline-INFO-Maximize the current window.
+2019-03-03 11:23:23,889-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-03-03 11:23:24,129-BasePage-INFO-输入内容
+2019-03-03 11:23:24,285-BasePage-INFO-输入内容
+2019-03-03 11:23:38,417-BasePage-ERROR-xpath页面未找到//*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a元素
+2019-03-03 11:23:38,559-BasePage-INFO-输入内容
+2019-03-03 11:23:38,660-BasePage-ERROR-Failed to type in input box with Message: unknown error: cannot focus element
+  (Session info: chrome=72.0.3626.64)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-03-03 11:24:04,919-BasePage-ERROR-id页面未找到fastpostmessage元素
+2019-03-03 11:24:04,919-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-03-03 11:24:16,058-BasePage-ERROR-link text页面未找到退出元素
+2019-03-03 11:24:23,442-BrowserEngline-INFO-日志记录退出并关闭浏览器
+2019-03-03 11:24:23,442-BrowserEngline-INFO-You had select Chrome browser
+2019-03-03 11:24:23,442-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 11:24:26,394-BrowserEngline-INFO-Staring chrome browser.
+2019-03-03 11:24:36,369-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 11:24:37,525-BrowserEngline-INFO-Maximize the current window.
+2019-03-03 11:24:37,529-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-03-03 11:24:37,839-BasePage-INFO-输入内容
+2019-03-03 11:24:38,034-BasePage-INFO-输入内容
+2019-03-03 11:24:49,214-BasePage-ERROR-xpath页面未找到//*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a元素
+2019-03-03 11:25:00,332-BasePage-ERROR-name页面未找到moderate[]元素
+2019-03-03 11:25:11,547-BasePage-ERROR-css selector页面未找到#mdly > p:nth-child(6) > strong:nth-child(1) > a元素
+2019-03-03 11:25:22,646-BasePage-ERROR-css selector页面未找到#modsubmit > span元素
+2019-03-03 11:25:33,722-BasePage-ERROR-css selector页面未找到#um > p:nth-child(2) > a:nth-child(16)元素
+2019-03-03 11:25:36,052-BrowserEngline-INFO-日志记录退出并关闭浏览器
+2019-03-03 11:25:36,052-BrowserEngline-INFO-You had select Chrome browser
+2019-03-03 11:25:36,052-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 11:25:38,977-BrowserEngline-INFO-Staring chrome browser.
+2019-03-03 11:25:49,538-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 11:25:50,731-BrowserEngline-INFO-Maximize the current window.
+2019-03-03 11:25:50,733-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-03-03 11:25:56,024-BasePage-INFO-输入内容
+2019-03-03 11:25:56,200-BasePage-INFO-输入内容
+2019-03-03 11:25:58,493-BasePage-INFO-输入内容
+2019-03-03 11:26:03,253-BrowserEngline-INFO-日志记录退出并关闭浏览器
+2019-03-03 11:26:03,253-BrowserEngline-INFO-You had select Chrome browser
+2019-03-03 11:26:03,253-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 11:26:06,878-BrowserEngline-INFO-Staring chrome browser.
+2019-03-03 11:26:17,773-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 11:26:18,907-BrowserEngline-INFO-Maximize the current window.
+2019-03-03 11:26:18,910-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-03-03 11:26:19,079-BasePage-INFO-输入内容
+2019-03-03 11:26:19,224-BasePage-INFO-输入内容
+2019-03-03 11:26:30,338-BasePage-ERROR-css selector页面未找到#category_1>table>tbody>tr:nth-child(1)>td:nth-child(2)>h2>a元素
+2019-03-03 11:26:41,529-BasePage-ERROR-css selector页面未找到#editorbox > ul > li:nth-child(2) > a元素
+2019-03-03 11:26:42,334-BasePage-INFO-输入内容
+2019-03-03 11:26:53,385-BasePage-ERROR-css selector页面未找到#pollm_c_1>p:nth-child(1)>input元素
+2019-03-03 11:26:53,385-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-03-03 11:27:04,482-BasePage-ERROR-css selector页面未找到#pollm_c_1>p:nth-child(2)>input元素
+2019-03-03 11:27:04,482-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-03-03 11:27:15,616-BasePage-ERROR-css selector页面未找到.pn span元素
+2019-03-03 11:27:26,752-BasePage-ERROR-link text页面未找到退出元素
+2019-03-03 11:27:34,197-BrowserEngline-INFO-日志记录退出并关闭浏览器

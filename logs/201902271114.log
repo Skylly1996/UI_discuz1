@@ -1,0 +1,8 @@
+2019-02-27 11:14:30,389-BrowserEngline-INFO-You had select Chrome browser
+2019-02-27 11:14:30,389-BrowserEngline-INFO-The test sever url is:http://www.baidu.com
+2019-02-27 11:14:33,511-BrowserEngline-INFO-Staring chrome browser.
+2019-02-27 11:15:40,929-BrowserEngline-INFO-Open url:http://www.baidu.com
+2019-02-27 11:15:42,129-BrowserEngline-INFO-Maximize the current window.
+2019-02-27 11:15:42,129-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-27 11:15:42,408-BasePage-ERROR-Failed to type in input box with not all arguments converted during string formatting
+2019-02-27 11:15:44,851-BrowserEngline-INFO-日志记录退出并关闭浏览器

@@ -1,0 +1,20 @@
+2019-02-28 09:23:00,684-BrowserEngline-INFO-You had select Chrome browser
+2019-02-28 09:23:00,684-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php
+2019-02-28 09:23:03,588-BrowserEngline-INFO-Staring chrome browser.
+2019-02-28 09:23:04,309-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php
+2019-02-28 09:23:05,447-BrowserEngline-INFO-Maximize the current window.
+2019-02-28 09:23:05,450-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-28 09:23:05,706-BasePage-INFO-输入内容
+2019-02-28 09:23:05,821-BasePage-INFO-输入内容
+2019-02-28 09:23:17,612-BasePage-ERROR-name页面未找到moderate[]元素
+2019-02-28 09:23:28,697-BasePage-ERROR-css selector页面未找到#mdly > p:nth-child(6) > strong:nth-child(1) > a元素
+2019-02-28 09:23:39,817-BasePage-ERROR-css selector页面未找到#modsubmit > span元素
+2019-02-28 09:23:44,660-BrowserEngline-INFO-You had select Chrome browser
+2019-02-28 09:23:44,660-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php
+2019-02-28 09:23:47,431-BrowserEngline-INFO-Staring chrome browser.
+2019-02-28 09:23:49,061-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php
+2019-02-28 09:23:50,196-BrowserEngline-INFO-Maximize the current window.
+2019-02-28 09:23:50,199-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-28 09:23:50,387-BasePage-INFO-输入内容
+2019-02-28 09:23:50,553-BasePage-INFO-输入内容
+2019-02-28 09:24:08,016-BrowserEngline-INFO-日志记录退出并关闭浏览器

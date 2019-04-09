@@ -1,0 +1,13 @@
+2019-02-27 15:41:39,348-BrowserEngline-INFO-You had select Chrome browser
+2019-02-27 15:41:39,349-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=viewthread&tid=1&extra=
+2019-02-27 15:41:42,924-BrowserEngline-INFO-Staring chrome browser.
+2019-02-27 15:43:10,518-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=viewthread&tid=1&extra=
+2019-02-27 15:43:20,582-BrowserEngline-INFO-Maximize the current window.
+2019-02-27 15:43:20,593-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-02-27 15:43:20,603-BasePage-ERROR-id页面未找到ls_username元素
+2019-02-27 15:43:20,604-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-27 15:43:20,615-BasePage-ERROR-id页面未找到ls_password元素
+2019-02-27 15:43:20,616-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-27 15:43:20,620-BasePage-ERROR-css selector页面未找到button.vm:nth-child(1)元素
+2019-02-27 15:43:20,625-BasePage-ERROR-xpath页面未找到/html/body/div[7]/div[4]/div[1]/a[1]/img元素
+2019-02-27 15:43:22,854-BrowserEngline-INFO-日志记录退出并关闭浏览器

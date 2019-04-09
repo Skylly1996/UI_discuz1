@@ -1,0 +1,24 @@
+2019-03-03 16:11:05,062-BrowserEngline-INFO-You had select Chrome browser
+2019-03-03 16:11:05,062-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 16:11:08,096-BrowserEngline-INFO-Staring chrome browser.
+2019-03-03 16:11:09,275-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 16:11:10,460-BrowserEngline-INFO-Maximize the current window.
+2019-03-03 16:11:10,462-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-03-03 16:11:10,683-BasePage-INFO-输入内容
+2019-03-03 16:11:10,820-BasePage-INFO-输入内容
+2019-03-03 16:11:14,142-BasePage-INFO-输入内容
+2019-03-03 16:11:14,389-BasePage-INFO-输入内容
+2019-03-03 16:11:35,661-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-03-03 16:11:50,970-BrowserEngline-INFO-You had select Chrome browser
+2019-03-03 16:11:50,970-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 16:11:53,885-BrowserEngline-INFO-Staring chrome browser.
+2019-03-03 16:11:54,616-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 16:11:55,463-BrowserEngline-INFO-日志记录退出并关闭浏览器
+2019-03-03 16:11:55,752-BrowserEngline-INFO-Maximize the current window.
+2019-03-03 16:11:55,756-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-03-03 16:11:56,038-BasePage-INFO-输入内容
+2019-03-03 16:11:56,406-BasePage-INFO-输入内容
+2019-03-03 16:11:59,964-BasePage-INFO-输入内容
+2019-03-03 16:12:00,199-BasePage-INFO-输入内容
+2019-03-03 16:12:15,520-BasePage-INFO-输入内容
+2019-03-03 16:12:23,821-BrowserEngline-INFO-日志记录退出并关闭浏览器

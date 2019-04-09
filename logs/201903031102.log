@@ -1,0 +1,63 @@
+2019-03-03 11:02:09,684-BrowserEngline-INFO-You had select Chrome browser
+2019-03-03 11:02:09,684-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 11:02:12,563-BrowserEngline-INFO-Staring chrome browser.
+2019-03-03 11:02:13,299-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 11:02:14,486-BrowserEngline-INFO-Maximize the current window.
+2019-03-03 11:02:14,486-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-03-03 11:02:14,768-BasePage-INFO-输入内容
+2019-03-03 11:02:14,904-BasePage-INFO-输入内容
+2019-03-03 11:02:26,117-BasePage-ERROR-css selector页面未找到#category_1>table>tbody>tr:nth-child(1)>td:nth-child(2)>h2>a元素
+2019-03-03 11:02:28,609-BasePage-INFO-输入内容
+2019-03-03 11:02:28,804-BasePage-INFO-输入内容
+2019-03-03 11:02:29,012-BasePage-INFO-输入内容
+2019-03-03 11:02:38,903-BrowserEngline-INFO-日志记录退出并关闭浏览器
+2019-03-03 11:02:41,418-BrowserEngline-INFO-You had select Chrome browser
+2019-03-03 11:02:41,418-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 11:02:44,412-BrowserEngline-INFO-Staring chrome browser.
+2019-03-03 11:02:45,162-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 11:02:46,289-BrowserEngline-INFO-Maximize the current window.
+2019-03-03 11:02:46,292-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-03-03 11:02:46,446-BasePage-INFO-输入内容
+2019-03-03 11:02:46,630-BasePage-INFO-输入内容
+2019-03-03 11:03:00,807-BasePage-ERROR-xpath页面未找到//*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a元素
+2019-03-03 11:03:01,059-BasePage-INFO-输入内容
+2019-03-03 11:03:01,239-BasePage-INFO-输入内容
+2019-03-03 11:03:17,854-BasePage-INFO-输入内容
+2019-03-03 11:03:26,098-BrowserEngline-INFO-日志记录退出并关闭浏览器
+2019-03-03 11:03:26,098-BrowserEngline-INFO-You had select Chrome browser
+2019-03-03 11:03:26,098-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 11:03:29,335-BrowserEngline-INFO-Staring chrome browser.
+2019-03-03 11:03:30,075-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 11:03:31,209-BrowserEngline-INFO-Maximize the current window.
+2019-03-03 11:03:31,211-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-03-03 11:03:31,468-BasePage-INFO-输入内容
+2019-03-03 11:03:31,591-BasePage-INFO-输入内容
+2019-03-03 11:03:32,652-BasePage-ERROR-xpath页面未找到//*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a元素
+2019-03-03 11:03:32,654-BasePage-ERROR-name页面未找到moderate[]元素
+2019-03-03 11:03:32,654-BasePage-ERROR-css selector页面未找到#mdly > p:nth-child(6) > strong:nth-child(1) > a元素
+2019-03-03 11:03:32,654-BasePage-ERROR-css selector页面未找到#modsubmit > span元素
+2019-03-03 11:03:32,669-BasePage-ERROR-css selector页面未找到#um > p:nth-child(2) > a:nth-child(16)元素
+2019-03-03 11:03:37,028-BrowserEngline-INFO-日志记录退出并关闭浏览器
+2019-03-03 11:03:37,028-BrowserEngline-INFO-You had select Chrome browser
+2019-03-03 11:03:37,028-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 11:03:39,842-BrowserEngline-INFO-Staring chrome browser.
+2019-03-03 11:03:40,620-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 11:03:41,779-BrowserEngline-INFO-Maximize the current window.
+2019-03-03 11:03:41,781-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-03-03 11:03:46,998-BasePage-INFO-输入内容
+2019-03-03 11:03:47,131-BasePage-INFO-输入内容
+2019-03-03 11:03:50,124-BasePage-INFO-输入内容
+2019-03-03 11:03:59,479-BrowserEngline-INFO-日志记录退出并关闭浏览器
+2019-03-03 11:03:59,479-BrowserEngline-INFO-You had select Chrome browser
+2019-03-03 11:03:59,479-BrowserEngline-INFO-The test sever url is:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 11:04:02,892-BrowserEngline-INFO-Staring chrome browser.
+2019-03-03 11:04:03,642-BrowserEngline-INFO-Open url:http://127.0.0.1/forum.php?mod=forumdisplay&fid=36
+2019-03-03 11:04:04,780-BrowserEngline-INFO-Maximize the current window.
+2019-03-03 11:04:04,782-BrowserEngline-INFO-Set implicity wait 10 seconds. 
+2019-03-03 11:04:04,990-BasePage-INFO-输入内容
+2019-03-03 11:04:05,165-BasePage-INFO-输入内容
+2019-03-03 11:04:16,994-BasePage-ERROR-css selector页面未找到#category_1>table>tbody>tr:nth-child(1)>td:nth-child(2)>h2>a元素
+2019-03-03 11:04:18,649-BasePage-INFO-输入内容
+2019-03-03 11:04:18,786-BasePage-INFO-输入内容
+2019-03-03 11:04:18,965-BasePage-INFO-输入内容
+2019-03-03 11:04:27,875-BrowserEngline-INFO-日志记录退出并关闭浏览器
